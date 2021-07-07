@@ -1,0 +1,23 @@
+body{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+}
+.editbox{
+	display:none
+}
+td{
+	padding:5px;
+}
+.editbox{
+	font-size:14px;
+	width:270px;
+	padding:4px;
+}
+.edit_tr:hover{
+	background:url(edit.png) right no-repeat #80C8E5;
+	cursor:pointer;
+}
+.edit_tr{
+	font-style:italic;
+	color:#F00;
+}
